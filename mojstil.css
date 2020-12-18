@@ -15,6 +15,9 @@ a, a:link, a:focus, a:hover, a:active {
 .zuto {
     color: #fcaf3b;
 }
+.manje {
+	font-size:14px;
+}
 .harmonika {
   background:transparent;
   cursor: pointer;
