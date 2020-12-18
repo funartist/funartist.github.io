@@ -9,6 +9,9 @@ a, a:link, a:focus, a:hover, a:active {
     color: #e63d8e;
 	text-decoration:none;
 }
+.zeleno {
+    color: #34d14e;
+}
 .harmonika {
   background:transparent;
   cursor: pointer;
