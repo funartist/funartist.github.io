@@ -12,6 +12,9 @@ a, a:link, a:focus, a:hover, a:active {
 .zeleno {
     color: #34d14e;
 }
+.zuto {
+    color: #fcaf3b;
+}
 .harmonika {
   background:transparent;
   cursor: pointer;
