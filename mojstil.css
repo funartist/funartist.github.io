@@ -3,6 +3,7 @@ body {
 	color:#003333;
 	font-family: comfortaa,verdana;
 	text-align:center;
+  	font-size:20px;
 }
 a, a:link, a:focus, a:hover, a:active {
     color: #e63d8e;
