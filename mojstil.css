@@ -15,6 +15,9 @@ a, a:link, a:focus, a:hover, a:active {
     color: #e63d8e;
     text-decoration:none;
 }
+img {
+	width:100%;
+}
 .zeleno {
     color: #34d14e;
 }
