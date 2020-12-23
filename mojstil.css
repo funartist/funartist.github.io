@@ -29,6 +29,9 @@ a, a:link, a:focus, a:hover, a:active {
   cursor: pointer;
   border: none;
   color: #e63d8e;
+	margin-top:20px;
+	margin-bottom:20px;
+	font-weight:bold;
 }
 .collapse {
   background-color: transparent;
