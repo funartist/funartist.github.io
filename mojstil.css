@@ -23,17 +23,13 @@ a, a:link, a:focus, a:hover, a:active {
 .manje {
 	font-size:14px;
 }
-.card {
-	border:none;
-}
-.card-header {
-  background:white;
+
+.collapsed {
+  background:transparent;
   cursor: pointer;
   border: none;
   color: #e63d8e;
-  font-size:26px;
 }
-.card-body {
-  background-color: white;
-  font-size:20px;
+.collapse {
+  background-color: transparent;
 }
