@@ -23,16 +23,25 @@ a, a:link, a:focus, a:hover, a:active {
 .manje {
 	font-size:14px;
 }
-.card, .card-header  {
-	background:white;
-	border:none;
+.harmonika {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  color: #e63d8e;
+  text-align: center;
+  outline: none;
+  font-size: 26px;
+  transition: 0.4s;
+  background:white;
 }
-h2	{
-	cursor: pointer;
-	color: #e63d8e;
-	margin-top:20px;
-	margin-bottom:20px;
-	font-weight:bold;
+.active, .accordion:hover {
+ 
 }
-.collapse {
+.roleta {
+  padding: 0 18px;
+  display: none;
+  text-align: center; 
+  font-size: 20px;
+  overflow: hidden;
 }
