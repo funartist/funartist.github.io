@@ -23,20 +23,17 @@ a, a:link, a:focus, a:hover, a:active {
 .manje {
 	font-size:14px;
 }
-.harmonika {
-  background:transparent;
+.card {
+	border:none;
+}
+.card-header {
+  background:white;
   cursor: pointer;
-  width: 100%;
   border: none;
-  padding:1px;
-  transition: 0.4s;
   color: #e63d8e;
   font-size:26px;
 }
-.roleta {
-  padding:3px;
-  display: none;
-  background-color: transparent;
-  overflow: hidden;
+.card-body {
+  background-color: white;
   font-size:20px;
 }
