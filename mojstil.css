@@ -48,3 +48,6 @@ a, a:link, a:focus, a:hover, a:active {
   overflow: hidden;
   margin-bottom:20px;
 }
+p {
+    margin-block-start: 0em;
+}
