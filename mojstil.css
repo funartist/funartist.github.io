@@ -1,7 +1,7 @@
 body {
-	background:white;
+	background:#fff;
 	color:#003333;
-	font-family: comfortaa,verdana;
+	font-family: comfortaa, verdana;
 	text-align:center;
   	font-size:20px;
 }
@@ -25,25 +25,23 @@ a, a:link, a:focus, a:hover, a:active {
 }
 .harmonika {
   cursor: pointer;
-  padding: 18px;
-  width: 100%;
+  padding: 33px;
+  margin:0px;
+  width: 99%;
   border: none;
   color: #e63d8e;
   text-align: center;
   outline: none;
   font-size: 26px;
   transition: 0.4s;
-  background:white;
+  background:#fff;
 }
 .active, .accordion:hover {
  
 }
 .roleta {
-  padding: 0 18px;
   display: none;
   text-align: center; 
   font-size: 20px;
   overflow: hidden;
-padding-left:33px;
-padding-right:33px;
 }
