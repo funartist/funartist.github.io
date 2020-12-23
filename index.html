@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 	<title>FUN ARTIST'S FUN PAGE 🤡</title>
    	
@@ -25,18 +25,18 @@
 </div>
 	
 	
-	<script>
+<script>
 var acc = document.getElementsByClassName("harmonika");
 var i;
 
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
+    var roleta = this.nextElementSibling;
+    if (roleta.style.display === "block") {
+      roleta.style.display = "none";
     } else {
-      panel.style.display = "block";
+      roleta.style.display = "block";
     }
   });
 }
