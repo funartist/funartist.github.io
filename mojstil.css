@@ -17,6 +17,8 @@ a, a:link, a:focus, a:hover, a:active {
 }
 img {
 	width:100%;
+	margin-left: -20px;
+	margin-right: -20px;
 }
 .zeleno {
     color: #34d14e;
