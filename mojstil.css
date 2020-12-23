@@ -5,6 +5,11 @@ body {
 	text-align:center;
   	font-size:20px;
 }
+h1 {
+	margin-top:20px;
+	margin-bottom:20px;
+	font-weight:bold;
+}
 a, a:link, a:focus, a:hover, a:active {
     color: #e63d8e;
 	text-decoration:none;
@@ -37,4 +42,3 @@ a, a:link, a:focus, a:hover, a:active {
   padding-left:100px;
   padding-right:100px;
 }
-		
