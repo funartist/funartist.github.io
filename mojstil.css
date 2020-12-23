@@ -23,16 +23,16 @@ a, a:link, a:focus, a:hover, a:active {
 .manje {
 	font-size:14px;
 }
-
-.collapsed {
-  background:transparent;
-  cursor: pointer;
-  border: none;
-  color: #e63d8e;
+.card {
+	background:white;
+	border:none;
+}
+.h2 {
+	cursor: pointer;
+	color: #e63d8e;
 	margin-top:20px;
 	margin-bottom:20px;
 	font-weight:bold;
 }
 .collapse {
-  background-color: transparent;
 }
