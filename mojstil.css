@@ -1,5 +1,6 @@
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 0px;
+  display:none
   background:#fff;
 }
 ::-webkit-scrollbar-track {
