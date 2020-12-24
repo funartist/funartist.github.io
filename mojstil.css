@@ -1,5 +1,8 @@
+::-webkit-scrollbar {
+  width: 0px !Important;
+display:none;
+}
 body {
-	overflow: hidden;
 	background:#fff;
 	color:#003333;
 	font-family: comfortaa, verdana;
