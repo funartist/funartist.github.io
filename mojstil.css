@@ -1,18 +1,4 @@
-::-webkit-scrollbar {
-  width: 0px;
-  display:none
-  background:#fff;
-}
-::-webkit-scrollbar-track {
-  background:#fff;
-}
-::-webkit-scrollbar-thumb {
-  background: #e63d8e; 
-  border-radius: 10px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #34d14e; 
-}
+overflow: hidden;
 body {
 	background:#fff;
 	color:#003333;
