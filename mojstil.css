@@ -32,7 +32,7 @@ img:hover {
   transition: transform .5s;
   transform: scale(1.5); 
 	margin-left:auto;
-	margin-right:auto;
+	margin-right:5%;
 }
 .zeleno {
     color: #34d14e;
