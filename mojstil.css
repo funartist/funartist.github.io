@@ -31,8 +31,8 @@ img:hover {
   -webkit-transform: scale(0.5); /* Safari 3-8 */
   transition: transform .5s;
   transform: scale(1.5); 
-	margin-left:auto;
-	margin-right:5%;
+	margin-left:-5%;
+	margin-right:auto;
 }
 .zeleno {
     color: #34d14e;
