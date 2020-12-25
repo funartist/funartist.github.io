@@ -25,6 +25,7 @@ a, a:link, a:focus, a:hover, a:active {
 	width:100%;
 	overflow-x:hidden;
 	overflow-y:visible;
+	z-index:5;
 	margin-bottom:0px;
 	padding-bottom:0px;
 }
