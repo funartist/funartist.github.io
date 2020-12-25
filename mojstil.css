@@ -24,6 +24,8 @@ a, a:link, a:focus, a:hover, a:active {
 #slika {
 	width:100%;
 	overflow:hidden;
+	margin-bottom:0px;
+	padding-bottom:0px;
 }
 img {
 	width:100%;
