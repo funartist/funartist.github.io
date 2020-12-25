@@ -23,13 +23,15 @@ a, a:link, a:focus, a:hover, a:active {
 }
 img {
 	width:100%;
+	margin:auto;
 }
 img:hover {
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
   transition: transform .5s;
   transform: scale(1.5); 
-	max-width: 100%;
+	max-width: 10 vw;
+	margin:auto;
 }
 .zeleno {
     color: #34d14e;
