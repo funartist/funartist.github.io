@@ -36,6 +36,7 @@ img:hover {
   -webkit-transform: scale(0.5); /* Safari 3-8 */
   transition: transform .5s;
   transform: scale(1.5);
+  transform:translateY(0.25);
 	margin:auto;
 }
 .zeleno {
