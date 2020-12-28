@@ -32,19 +32,19 @@
 	<p id="slika"><img src="https://funart.hr/images/bez_pozadine/leptir_na_arenom_lancu_bez_pozadine.jpg" alt="" /></p>
 	
 <script>
-		var acc = document.getElementsByClassName("harmonika");
-		var i;
+		let acc = document.getElementsByClassName("harmonika");
 
-		function hideAll() {
+		function hideOthers(current) {
 			let accs = document.getElementsByClassName("harmonika");
 			for (a of accs) {
+				if (a === current) continue;
 				a.nextElementSibling.style.display = "none"
 			}
 		}
 
-		for (i = 0; i < acc.length; i++) {
+		for (let i = 0; i < acc.length; i++) {
 			acc[i].addEventListener("click", function () {
-				hideAll()
+				hideOthers(this)
 				this.classList.toggle("active");
 				var roleta = this.nextElementSibling;
 				if (roleta.style.display === "block") {
