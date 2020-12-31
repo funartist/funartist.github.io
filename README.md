@@ -4,4 +4,4 @@ PROBNA HTML STRANICA
 Ovdje isprobavam kodove.
 Planiram konačno naučiti taj nesretni javascript.
 
-Moju stranicu pogledajte na adresi https://funartist.github.io
+Moju stranicu pogledajte <a href="https://funartist.github.io" target="_blank">OVDJE</a>
