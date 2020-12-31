@@ -1,3 +1,7 @@
-# funartist.github.io
-PROBNA HTML STRANICA<br/>
-Ovdje isprobavam kodove.<br/> Planiram konačno naučiti taj nesretni javascript.
+# FUN ARTIST'S FUN PAGE
+PROBNA HTML STRANICA
+
+Ovdje isprobavam kodove.
+Planiram konačno naučiti taj nesretni javascript.
+
+Moju stranicu pogledajte na adresi funartist.github.io
