@@ -5,3 +5,4 @@ Ovdje isprobavam kodove.
 Planiram konačno naučiti taj nesretni javascript.
 
 Moju stranicu pogledajte <a href="https://funartist.github.io" target="_blank">OVDJE</a>
+(joj, zna li netko kako da se to otvori u novom prozoru⁇⁇)
