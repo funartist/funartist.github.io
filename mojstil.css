@@ -77,3 +77,45 @@ margin-right:25px;
 p {
     margin-block-start: 0em;
 }
+.uspon {
+	text-align: center;
+	position: relative;
+	animation-name: raste;
+	padding:10px;
+}
+#Jasna1 {animation-duration: 1s;}
+#Jasna2 {animation-duration: 1.5s;}
+#Jasna3 {animation-duration: 2s;}
+#Jasna4 {animation-duration: 2.5s;}
+#Jasna5 {animation-duration: 3s;}
+#Jasna6 {animation-duration: 3.5s;}
+@keyframes raste {
+	from {top: 300px;}
+	to {top: 0px;}
+}
+.table, table.category, .table-bordered, .table-bordered tbody, .table-bordered td, .table-bordered thead:first-child tr:first-child>th:last-child, .table-bordered tbody:first-child tr:first-child>td:last-child, .table-bordered tbody:first-child tr:first-child>th:last-child {
+	border-radius:33px;
+	border:none;
+	border-spacing:2px;
+}
+.natrag {
+	position: fixed;
+	bottom: 30px;
+	left:30px;
+	z-index: 9999;
+	padding:10px 15px 10px 15px;
+	cursor:pointer;
+	font-size: 16px;
+	color: #fff;
+	background: #34d14e;
+	border-radius: 50%;
+	border:none;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.natrag:hover, .sp-scroll-up:hover, .natrag:active, .sp-scroll-up:active, .natrag:focus, .sp-scroll-up:focus  {
+	color: #fff;
+	background: #e63d8e;
+	border-radius: 50%;
+	border:none;
+}
+
