@@ -112,6 +112,9 @@ p {
 	border:none;
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
+button {
+	outline: none;
+}
 .natrag:hover, .sp-scroll-up:hover, .natrag:active, .sp-scroll-up:active, .natrag:focus, .sp-scroll-up:focus  {
 	color: #fff;
 	background: #e63d8e;
